@@ -4,7 +4,7 @@ Linguagem: C#
 
 Utilizando o Unity
 
-Jogo com 3 fases feito em grupo para o projeto integrador
+Jogo com 3 fases feito em grupo para o projeto integrador. Pasta de scripts contem os códigos do jogo, o arquivo zip é o jogo executável.
 
 Depois do lançamento de uma bomba nuclear varios virus e bacterias foram afetados pela radioatividade e as modificaram, entraram nos organismos dos animais os matando e depois de mortos se apossaram de seus corpos e com o tempo também sofrendo mutações genéticas, ao ponto de juntar algo orgânico com algo inorgânico como os lixos de matais, vidro, plástico, etc.
 Monstros de todos os tipos começaram a atacar a humanidade a ponto de restar apenas um que se sentindo muito solitário começou com um projeto, algo que o fizesse não se sentir mais sozinho. Este humano, apesar de ter demorado muito, criou um robô que lhe fez companhia por um longo tempo. Lhe ensinou tudo que sabia, incluindo sobre sentimentos humanos, até seu último suspiro tendo esperança de voltar o mundo a como ele era.
